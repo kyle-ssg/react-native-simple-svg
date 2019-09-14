@@ -28,5 +28,5 @@ This library supports autolinking for ReactNative >0.60.0, for older version see
 
 
 ### Example performance difference
-This illustrates the render speed difference when using this library.
-<img src="http://g.recordit.co/ckIWCgPeii.gif"/>
+This illustrates the render speed difference and fixed rendering when using this library.
+<img src="http://g.recordit.co/J24UpTaTyd.gif"/>
