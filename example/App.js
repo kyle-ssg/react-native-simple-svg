@@ -8,6 +8,7 @@
 
 import React, {Fragment} from 'react';
 import SVG from  'react-native-simple-svg';
+
 import {
   SafeAreaView,
   StyleSheet,
