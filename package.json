@@ -1,0 +1,27 @@
+{
+  "name": "react-native-simple-svg",
+  "version": "1.0.6",
+  "description": "A Native, fast library for loading remote SVG images in React Native",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyle-ssg/react-native-simple-svg"
+  },
+  "keywords": [
+    "react-native",
+    "svg"
+  ],
+  "author": "kyle-ssg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kyle-ssg/react-native-simple-svg/issues"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": ">=0.50.0"
+  },
+  "homepage": "https://github.com/kyle-ssg/react-native-simple-svg#readme",
+  "nativePackage": true
+}
